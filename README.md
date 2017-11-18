@@ -18,4 +18,4 @@
 
 ----The total sum of your order is displayed if you wish to check out----
 
-![Image of final-total](/final-total.PNG)
+![Image of final-total](/finial-total.PNG)
